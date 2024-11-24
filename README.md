@@ -1,7 +1,7 @@
-# React-dashboard-template
+# React Sidebar and Dashboard Template
 
 - React
-- Tailwind Css
+- Tailwind
 
 ```npm install chart.js react-chartjs-2```
 
